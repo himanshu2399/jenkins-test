@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: test1-config
 data:
-  key: "This is test1 configuration"
+  key: "This is test1 configuration file for infra"
